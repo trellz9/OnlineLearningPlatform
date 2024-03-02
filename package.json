@@ -1,0 +1,26 @@
+{
+"name": "nlineo42earn",
+"version": "1.0.0",
+"description": "n online learning platform that provides a wide range ",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/trellz9/OnlineLearningPlatform.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "trellz9",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}

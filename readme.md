@@ -1,0 +1,1 @@
+An online learning platform that provides a wide range of courses and educational resources. It offers interactive lessons, quizzes, and progress tracking features to facilitate effective learning and skill development.
